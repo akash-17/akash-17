@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akash Singh
 - 👀 I’m interested in Machine Learning/Data Science/Data Analytics
-- 🌱 I’m currently learning Data Science and also have done certification in Data Science
+- 🌱 If you like my repository please follow me and give me a star.
+- Please drop me a mail on akashrsingh17@gmail.com to collaborate with me
 
 
 <!---
